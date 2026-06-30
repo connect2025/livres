@@ -1,1 +1,37 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="The Trail Beyond (1934)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXhLH2HllQtTxP8wYc1NFwcxL9u.jpg" group-title="Filmes Livres",The Trail Beyond (1934)
+http://scutm.uk:80/movie/Teste0800/z36fBbsKWk/270741.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A Última Vez Que Vi Paris (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yARMwDXPi5fjcDkWuBApfXQhb2s.jpg" group-title="Filmes Livres",A Última Vez Que Vi Paris (1954)
+http://scutm.uk:80/movie/Teste0800/z36fBbsKWk/270742.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Patrol (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2hnZx8eM7sCxZucr1C1XvFOUW9.jpg" group-title="Filmes Livres",Sky Patrol (1939)
+http://scutm.uk:80/movie/Teste0800/z36fBbsKWk/270743.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Shadows of Death (1945)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcMNNwAbkdv8I1ttQacfHY0qjPE.jpg" group-title="Filmes Livres",Shadows of Death (1945)
+http://scutm.uk:80/movie/Teste0800/z36fBbsKWk/270744.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Na Trilha da Verdade (1933)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCJlvS7o6wJ6Xn8qZ5GkVJWpRMc.jpg" group-title="Filmes Livres",Na Trilha da Verdade (1933)
+http://scutm.uk:80/movie/Teste0800/z36fBbsKWk/270745.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Jejum de Amor (1940)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zK9GxBsPGoeVTpO6cwVnvZXld7Z.jpg" group-title="Filmes Livres",Jejum de Amor (1940)
+http://scutm.uk:80/movie/Teste0800/z36fBbsKWk/270746.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Bank Alarm (1937)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pmXmItZZNtoHvASFso8MWnwWte.jpg" group-title="Filmes Livres",Bank Alarm (1937)
+http://scutm.uk:80/movie/Teste0800/z36fBbsKWk/270747.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha da Fantasia S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDTkUbbsIbPFDL8hkuOTSRnmntn.jpg" group-title="Séries Livres",A Ilha da Fantasia - S01E01
+http://scutm.uk:80/series/Teste0800/z36fBbsKWk/270736.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha da Fantasia S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVsFjY2vt5FKqrHP7wHPBM67dAl.jpg" group-title="Séries Livres",A Ilha da Fantasia - S01E02
+http://scutm.uk:80/series/Teste0800/z36fBbsKWk/270737.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Adventures of Jim Bowie S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNjQ6G2mHMVdCOzSik6QosvLIVn.jpg" group-title="Séries Livres",The Adventures of Jim Bowie - S01E01
+http://scutm.uk:80/series/Teste0800/z36fBbsKWk/270738.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Adventures of Jim Bowie S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNjQ6G2mHMVdCOzSik6QosvLIVn.jpg" group-title="Séries Livres",The Adventures of Jim Bowie - S01E02
+http://scutm.uk:80/series/Teste0800/z36fBbsKWk/270739.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Adventures of Jim Bowie S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNjQ6G2mHMVdCOzSik6QosvLIVn.jpg" group-title="Séries Livres",The Adventures of Jim Bowie - S01E03
+http://scutm.uk:80/series/Teste0800/z36fBbsKWk/270740.mp4
